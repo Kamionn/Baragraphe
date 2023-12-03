@@ -1,7 +1,7 @@
 /* **********************************************************
  * Nom du projet : bargraphe.c
  * fichier: bargraphe.c
- * Auteur: M.Le Fur, 21/11/2022.
+ * Auteur: M.Le Fur, 21/11/2022 modified 03/12/2023.
  * Description: Augmentation du niveau en fonction d'une variable "Niveau"
  * NOTES:
 ************************************************************************/
